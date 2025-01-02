@@ -43,7 +43,7 @@ o=("------------------------------------------------------------")
 print(B+o)
 combo=input(X+'card.txt:'+X)
 y=open(f'{combo}',"+r")
-token = input('6355330650:AAHP0InZliL-Yb3OY2bTYW-c8SJQ7ABMPdo : ')
+token = input('7584467985:AAEPjPxRZUAA-ro5bSQbbvmA3-xSZ29neQg')
 ID = input('-1002168306948: ')
 start_num = 0
 F = '\033[2;32m'
